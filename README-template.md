@@ -60,11 +60,4 @@ Users should be able to:
 - ✅ Reusing styles with BEM or utility-class approaches
 - ✅ Handling layout switch from vertical to horizontal with `flex-direction: row` on larger screens
 
-```css
-.hero-image {
-  mix-blend-mode: multiply;
-  opacity: 0.75;
-  object-fit: cover;
-  height: 100%;
-  width: 100%;
-}
+
