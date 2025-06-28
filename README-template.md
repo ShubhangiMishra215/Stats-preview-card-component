@@ -32,7 +32,7 @@ Users should be able to:
 
 ### 🔗 Links
 
-- 💡 Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/Stats-preview-card-component/)
+- 💡 Solution URL: [Frontend Mentor](https://github.com/ShubhangiMishra215/Stats-preview-card-component.git)
 - 🌐 Live Site URL: [Live Demo](https://shubhangimishra215.github.io/Stats-preview-card-component/)
 
 ---
